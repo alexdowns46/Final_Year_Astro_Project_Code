@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
+#Adapted from:
+#https://machinelearningmastery.com/how-to-implement-pix2pix-gan-models-from-scratch-with-keras/
 
 
-# example of pix2pix gan for satellite to map image-to-image translation
 from numpy import load
 from numpy import zeros
 from numpy import ones
